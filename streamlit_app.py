@@ -1,6 +1,6 @@
 # Import python packages
 import streamlit as st
-from pandas as pd
+import pandas as pd
 from snowflake.snowpark.functions import col, when_matched
 
 import requests  
